@@ -7,6 +7,6 @@ public class NumberReverter {
         int c = number % 10;
         System.out.print(c);
         System.out.print(b);
-        System.out.print(a);
+        System.out.print(a+'/n');
     }
 }

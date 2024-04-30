@@ -6,7 +6,7 @@ public class DigitsSumCalculator {
         int b = number % 1000 / 100 ;
         int c = number % 100 / 10;
         int d = number % 10;
-        System.out.print(c+b+a+d);
+        System.out.println(c+b+a+d);
 
         }
 }
